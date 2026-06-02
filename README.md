@@ -95,4 +95,4 @@ Dış bağımlılık yoktur. Yalnızca Python standart kütüphanesi kullanılı
 
 ## Lisans
 
-MIT © 2026 Eren Öztürk
+MIT © 2026 Eren Özatak
