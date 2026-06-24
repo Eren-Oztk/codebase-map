@@ -60,7 +60,7 @@ Python 3.8+ gereklidir. Dış bağımlılık **yoktur** — yalnızca standart k
 
 ```bash
 git clone https://github.com/Eren-Oztk/codebase-map.git
-cd Kod_Tarama
+cd codebase-map
 python kod_tara.py
 ```
 
