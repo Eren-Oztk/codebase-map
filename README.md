@@ -6,9 +6,9 @@
 
 <br>
 
-[![Live Demo](https://img.shields.io/badge/🌐_Canlı_Demo-GitHub_Pages-1f6feb?style=for-the-badge)](https://eren-oztk.github.io/Kod_Tarama)
-[![Language](https://img.shields.io/badge/Python-100%25-3776AB?style=for-the-badge&logo=python)](https://github.com/Eren-Oztk/Kod_Tarama)
-[![Platform](https://img.shields.io/badge/Windows-PowerShell%2FCMD-0078D4?style=for-the-badge)](https://github.com/Eren-Oztk/Kod_Tarama)
+[![Live Demo](https://img.shields.io/badge/🌐_Canlı_Demo-GitHub_Pages-1f6feb?style=for-the-badge)](https://eren-oztk.github.io/codebase-map)
+[![Language](https://img.shields.io/badge/Python-100%25-3776AB?style=for-the-badge&logo=python)](https://github.com/Eren-Oztk/codebase-map)
+[![Platform](https://img.shields.io/badge/Windows-PowerShell%2FCMD-0078D4?style=for-the-badge)](https://github.com/Eren-Oztk/codebase-map)
 
 </div>
 
@@ -59,7 +59,7 @@ Rapor açıldığında tüm projelerinizi, dil istatistiklerinizi ve dosya öniz
 Python 3.8+ gereklidir. Dış bağımlılık **yoktur** — yalnızca standart kütüphane kullanılır.
 
 ```bash
-git clone https://github.com/Eren-Oztk/Kod_Tarama.git
+git clone https://github.com/Eren-Oztk/codebase-map.git
 cd Kod_Tarama
 python kod_tara.py
 ```
